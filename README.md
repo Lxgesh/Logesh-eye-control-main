@@ -1,4 +1,4 @@
-# 🧠 Advanced Biometric Hands-Free Accessibility Tool v3.0
+
 
 An intelligent, voice-activated eye-tracking interface that enables complete hands-free computer control. Move your cursor with your gaze, click with blinks, and execute commands using the **Lucy voice assistant**.
 
