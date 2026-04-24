@@ -77,7 +77,7 @@ All commands require the wake word **"Lucy"**
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/real-rohit/Lucy-eye-control.git
+git clone https://github.com
 cd biometric-hands-free-tool
 ```
 
