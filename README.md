@@ -638,21 +638,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
 
 ---
 
@@ -663,14 +648,6 @@ copies of the Software...
 - **PyAutoGUI** for system automation
 - **SpeechRecognition** for voice command processing
 - The accessibility community for inspiration and feedback
-
----
-
-## 📧 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/real-rohit/Lucy-eye-control/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/real-rohit/Lucy-eye-control/discussions)
-- **Email**: realrohitgoswami@gmail.com
 
 ---
 
@@ -721,18 +698,3 @@ copies of the Software...
 
 ---
 
-## ⭐ Star History
-
-If this project helped you, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=real-rohit/Lucy-eye-control&type=Date)](https://star-history.com/#real-rohit/Lucy-eye-control&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ for the accessibility community**
-
-[⬆ Back to Top](#-advanced-biometric-hands-free-accessibility-tool-v30)
-
-</div>
